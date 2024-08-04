@@ -24,11 +24,7 @@ export default function Home() {
           </div>
         </div>
         
-<<<<<<< HEAD
         <h1 className="text-3xl font-bold mb-4">Welcome to Flip it</h1>
-=======
-        <h1 className="text-3xl font-bold mb-4">Welcome to Click and Collect</h1>
->>>>>>> Marcelos01/master
         
         <p className="text-xl mb-6">The game is on the <Link href="/clicker" className="underline">Clicker</Link> page.</p>
         
